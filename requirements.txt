@@ -1,0 +1,11 @@
+fastapi[all]
+uvicorn
+twilio
+anthropic
+python-dotenv
+pypdf
+langchain
+langchain-anthropic
+langchain-openai
+langchain-community
+faiss-cpu
